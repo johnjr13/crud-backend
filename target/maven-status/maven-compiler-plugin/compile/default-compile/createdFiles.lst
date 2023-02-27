@@ -1,0 +1,5 @@
+br/com/resource/ClientResource.class
+br/com/DAO/ClientDAO.class
+br/com/DTO/ClientDTO.class
+br/com/DAO/ConexaoDAO.class
+br/com/resource/RestApplication.class
